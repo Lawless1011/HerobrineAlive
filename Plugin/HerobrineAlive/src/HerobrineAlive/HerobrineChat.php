@@ -17,17 +17,17 @@ class HerobrineChat extends PluginTask{
         }elseif($chatid == "4"){
             $message = "<Herobrine> Your world is mine!";
         }elseif($chatid == "5"){
-            $message = "<Herobrine> ";
+            $message = "<Herobrine> Hello";
         }elseif($chatid == "6"){
-            $message = "<Herobrine> ";
+            $message = "<Herobrine> Minecraft is dominated by me";
         }elseif($chatid == "7"){
-            $message = "<Herobrine> ";
+            $message = "<Herobrine> §k§4Die, to the fool who tried to find me";
         }elseif($chatid == "8"){
-            $message = "<Herobrine> ";
+            $message = "<Herobrine> Die, to the fool who tried to find me";
         }elseif($chatid == "9"){
-            $message = "<Herobrine> ";
+            $message = "<Herobrine> Let's impose sanctions";
         }elseif($chatid == "10"){
-            $message = "<Herobrine> ";
+            $message = "<Herobrine> I'm herobrine, I'm Notch's younger brother";
         }
         //Broadcast $message
     }
